@@ -26,7 +26,7 @@ class ToDoListViewController: UITableViewController {
 
 
     //MARK - Table View Data Source Code
-    //The following is a re-usable cell for the table.
+    //The following is a re-usable cell for the table..
     
     override func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
         return itemArray.count
